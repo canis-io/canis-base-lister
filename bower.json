@@ -1,6 +1,6 @@
 {
   "name": "canis-base-lister",
-  "version": "0.1",
+  "version": "1.0.1",
   "main": "js/canis.lister.js",
   "dependencies": {
     "canis-assets-lib": ">=0.1"
